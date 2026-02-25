@@ -15,6 +15,6 @@ I build fast, clean and scalable web apps — from UI to APIs.
 - **Bright Future School** — School landing website
 
 ## Contact
-- Telegram: @dilshod_ziyodulloyev
+- Telegram: https://t.me/dilshod_ziyodulloyev
 - Email: ziyodullayevdilshod7@gmail.com
 - Portfolio: https://dilshod-dev.uz
