@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dilshod 👋
 
-<!--
-**dilshodbek06/dilshodbek06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer focused on **React & Next.js**.  
+I build fast, clean and scalable web apps — from UI to APIs.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, FastAPI, Prisma, Supabase
+- **Database:** PostgreSQL, MongoDB
+- **Tools:** Git, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Interaktiv Talim** — Fun, interactive learning games for teachers and students 
+- **Falaq Nashr Website** — Falaq Nashr — Online Bookstore Website 
+- **Bright Future School** — School landing website
+
+## Contact
+- Telegram: @dilshod_ziyodulloyev
+- Email: ziyodullayevdilshod7@gmail.com
+- Portfolio: https://dilshod-dev.uz
